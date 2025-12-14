@@ -1,7 +1,3 @@
 flask
 pytest
 coverage
-unittest
-sys
-os
-json
