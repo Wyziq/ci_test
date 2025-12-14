@@ -1,8 +1,6 @@
-Flask
+flask
 pytest
 coverage
-render_template
-request
 unittest
 sys
 os
